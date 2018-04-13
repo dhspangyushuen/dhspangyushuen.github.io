@@ -9,6 +9,8 @@
 <p>
 My name is Pang Yu Shuen. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
+  I came from Greenridge Primary School.</p>
+<p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
 <p>Here are the things I love to do the most : </p> 
