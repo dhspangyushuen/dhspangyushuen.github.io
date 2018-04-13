@@ -5,7 +5,7 @@
 <body>
 <h1> All About Me</h1>
 <title> This is my website </title>
-<img src="photo.jpg"/>
+<img src="https://lh3.googleusercontent.com/xLBnrM0aiJMbmMbCdKNzIOFDtmkB5AJJXiEzd3J3yqMF7EXTfKEZ3Q0nDtdemLH-Zu1PiPE=s85"/>
 <p>
 My name is Pang Yu Shuen. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
