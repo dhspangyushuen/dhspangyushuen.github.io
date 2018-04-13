@@ -13,10 +13,14 @@ My name is Pang Yu Shuen. I am a student of Dunman High School. Currently in 1st
 <p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
-<p>Here are the things I love to do the most : </p> 
+<p> Here are the things I love to do the most : </p> 
 <ul>
 <li>Playing Games</li>
 <li>Doing Math</li>
 </ul>
+<br>
+<h1> My Acheivements</h1>
+<p> I am Grade 6 in piano.</p>
+  <p> I am Poom 1(belt) in Taekwondo.</p>
 </body>
 </html>
